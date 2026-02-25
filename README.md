@@ -1,8 +1,11 @@
 Ancient Trees Conservation Genomics Analysis Scripts
+
 This repository contains analysis scripts used in an ongoing population-scale whole-genome study focused on conservation genomics and evolutionary importance.
+
 The scripts are organized into three main analytical modules:
  
 Repository Structure
+
 1_population_genetics
 Scripts related to population genomic structure, demographic inference, and general population-level analyses.
  
