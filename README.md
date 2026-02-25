@@ -1,4 +1,4 @@
-Ancient Trees Conservation Genomics Analysis Scripts
+Ancient Trees Evolutionary Importance
 
 This repository contains analysis scripts used in an ongoing population-scale whole-genome study focused on conservation genomics and evolutionary importance.
 
