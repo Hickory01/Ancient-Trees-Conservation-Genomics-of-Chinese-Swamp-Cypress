@@ -7,15 +7,19 @@ The scripts are organized into three main analytical modules:
 Repository Structure
 
 1_population_genetics
+
 Scripts related to population genomic structure, demographic inference, and general population-level analyses.
  
 2_genetic_diversity_load
+
 Scripts for estimating genome-wide diversity patterns and assessing mutation burden–related metrics.
  
 3_rare_allele_representation
+
 Scripts for identifying and evaluating the representation of rare genetic variants across different conservation categories.
  
 Notes
+
 •	The associated manuscript is currently under review.
 
 •	Detailed methodological descriptions and formal citation information will be provided upon publication.
