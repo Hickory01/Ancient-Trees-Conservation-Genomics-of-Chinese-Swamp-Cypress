@@ -17,10 +17,13 @@ Scripts for identifying and evaluating the representation of rare genetic varian
  
 Notes
 •	The associated manuscript is currently under review.
+
 •	Detailed methodological descriptions and formal citation information will be provided upon publication.
+
 •	Scripts are shared for transparency and reproducibility purposes.
+
 •	Paths and parameters may require adaptation depending on computing environments.
  
 Contact
-For questions regarding the repository:
-Email: zhangwp@scbg.ac.cn
+
+For questions regarding the repository: Email: zhangwp@scbg.ac.cn
